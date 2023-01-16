@@ -30,7 +30,7 @@ makeCacheMatrix <- function(m1 = matrix()) {
 }
 
 
-## The function "cacheSolve" is who returns a matrix that is the inverse of 'm1'
+## The function "cacheSolve" is who returns a matrix that is the inverse of "m1"
 ## This function computes the inverse of the special "matrix" returned by
 ##`makeCacheMatrix` above, using the methods contained in the returned list.
 
